@@ -1,0 +1,30 @@
+.userOptionMain button{
+     /* padding: 10px;
+     color : black;
+     background: gray;
+     border-radius: 10px;
+     position: relative;
+     right: 0;
+     top: 0;
+     border: 1px solid black;
+     width: 20px;
+     height: 10px; */
+     color: black !important; 
+     background:  rgba(138, 127, 127, 0.15)!important;
+     position: absolute;
+     right: 0;
+     top: 0;
+     margin: 0vmax;
+     font-size: 10px !important;
+}
+.userOptionMain button:hover{
+     /* color: rgba(253, 246, 246, 0.15)!important;  */
+     background:  rgb(204, 184, 184) !important;
+     /* padding: 10px;
+     color : black;
+     background: white;
+     border-radius: 10px;
+     position: relative;
+     right: 0;
+     top: 0; */
+}
